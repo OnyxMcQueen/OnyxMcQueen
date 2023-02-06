@@ -24,6 +24,19 @@ Where do I start? Well there's tons of information I'd love to share about mysel
 
  > Image of Voyager 1, *Pale Blue Dot*, can you see where Earth is in this photo?
 
+## **Education**
+
+### *Pursuit*
+At this current moment in space and time I am participating in a fellowship called Pursuit. This fellowship gives me the opportunity to learn full-stack software development. Within the program I am learning JavaScript, Node.js, React, HTML and CSS. Mastering these tools will allow me to become a powerful developer creating dynamic and highly interactive web pages and apps. A driving passion of why I want to indulge into the software industry is because of the elegant balance of where technology/modernity meets creativity/ingenuity. It brings me great joy having the ability to construct applications and websites and I hope my growth allows me to scale my personal projects accordingly. 
+
+### *Brooklyn College*
+
+I am also enrolled in Brooklyn College, I was striving towards a Bachelors degree in General Mathematics. However due to certain complication I have decided it was in my best interest to take a leave of absence from school temporarily, my reasoning for this was because at the time of attending college I had zero support from peers and professors and I also could not support myself financially. It was a tough decision but I am vehement on the principle that once I have my career in place I will return and finish what I have started. This degree holds more than as a symbol of completion it serves as a reminder of how I will have progressed and to always strive for growth. 
+
+![Cartoon Boy and Cartoon Girl arguing](https://media.tenor.com/1hQXhJ5bdEMAAAAC/inuyasha-kagome.gif)
+
+> What the inside of my mind looks like when making important decisions and trying to stick to goals.  *InuYasha*
+
 
 
 
